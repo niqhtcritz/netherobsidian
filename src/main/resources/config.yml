@@ -1,0 +1,3 @@
+# Set automatically when someone uses the Nether Obsidian.
+# You can also change it by hand or with /netherlock lock|unlock
+nether-unlocked: false
